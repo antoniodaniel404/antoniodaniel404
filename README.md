@@ -93,17 +93,6 @@ antonio-daniel
 > Transformar conhecimento em poder tecnológico e inspirar a próxima geração africana de desenvolvedores.
 
 ---
-
-## 🧬 Em Evolução
-
-```bash
-Ethical Hacking
-Segurança de Redes
-Full Stack Development
-Cyber Defense
-Automação com Python
-```
-
 ---
 
 ## 📡 Conexão
